@@ -1,3 +1,5 @@
 # email-python
 
-this code helps in sending bulk emails with attachment
+* Split PDF
+* this code helps in sending bulk emails with attachment
+
